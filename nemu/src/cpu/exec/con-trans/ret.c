@@ -16,5 +16,6 @@
 
 make_helper(ret){
     cpu.eip=swaddr_read(cpu.esp,4)-1;
+    cpu.esp=cpu.esp+4;
     return 1;
 }
