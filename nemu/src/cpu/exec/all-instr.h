@@ -6,6 +6,8 @@
 #include "data-mov/cltd.h"
 #include "data-mov/leave.h"
 
+#include"con-trans/call.h"
+
 #include "arith/dec.h"
 #include "arith/inc.h"
 #include "arith/neg.h"
