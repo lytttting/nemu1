@@ -9,6 +9,7 @@
 #include "con-trans/call.h"
 #include "push/push.h"
 #include "con-trans/ret.h"
+#include "con-trans/je.h"
 
 #include "arith/dec.h"
 #include "arith/inc.h"
